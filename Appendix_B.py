@@ -22,7 +22,7 @@ rho=18.5
 
 ap=92
 bp=64
-d=5
+d=10
 gamma=25
 
 # Laplacian kernel
