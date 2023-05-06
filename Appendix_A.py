@@ -83,7 +83,6 @@ def animate(frame):
     return [im]
 
 # This line creates the animation
-anim = animation.FuncAnimation(fig, animate, frames=2000, 
-                               interval=5)
+anim = animation.FuncAnimation(fig, animate, frames=2000,interval=5)
 
 
